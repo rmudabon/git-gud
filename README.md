@@ -2,5 +2,6 @@
 Git lessons for the students of CS3145 - SAD 2
 Names:
 
-Dabon, Rowmel Marco
-Villar Luarez, Jo Christopher L.
+Dabon, Rowmel Marco    
+Villar Luarez, Jo Christopher L.    
+Enriquez, Julius C.
